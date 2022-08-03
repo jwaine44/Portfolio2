@@ -1,0 +1,37 @@
+* {
+    margin: 0 auto;
+    width: 80%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+
+.center {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.content {
+    display: flex;
+    margin-top: 100px;
+}
+
+img {
+    width: 80px;
+    height: 100px;
+}
+
+input {
+    width: 200px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+button {
+    width: 100px;
+    margin-left: 300px;
+}
